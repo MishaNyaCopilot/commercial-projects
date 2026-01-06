@@ -1,6 +1,6 @@
-# Freelance Projects Portfolio
+# Commercial Projects Portfolio
 
-This repository contains documentation for several freelance projects I developed.  
+This repository contains documentation for several commercial projects I developed.  
 Source code for these projects cannot be published due to client confidentiality, but each folder includes a detailed overview of the system architecture, technologies used, implementation notes, and my specific contributions.
 
 The goal of this repository is to provide transparent insight into my engineering experience across different domains, including:
